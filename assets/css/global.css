@@ -12,6 +12,35 @@ body {
     height: 100vh;
     padding: 1rem;
     background-color: #fff;
+
+}
+
+#contentPokedex {
+    width: 100vw;
+    height: 100vh;
+    display: none;
+    flex-direction: column;
+
+    
+}
+
+.topo{
+    position: relative;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10% 10% 0 0;
+}
+
+.fundo {
+    width: 100%;
+    height: 55%;
+    position: absolute;
+    top: 45%;
+    border-radius: 10%;
+    z-index: 2;
 }
 
 @media screen and (min-width: 992px) {
@@ -21,4 +50,19 @@ body {
         margin: 1rem auto;
         border-radius: 1rem;
     }
+
+    #contentPokedex {
+        max-width: 992px;
+        margin: 1rem auto;
+        border-radius: 1rem;  
+        align-items: center;
+        justify-content: center;      
+    }
+
+    #contentPokedex .topo{
+        height: 45%;
+
+    }
+
+    
 }
