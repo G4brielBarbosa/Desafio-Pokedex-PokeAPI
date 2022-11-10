@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/G4brielBarbosa/Desafio-Pokedex-PokeAPI/main/assets/images/POKEDEX.png" />
+  <img style="height: 500px "src="https://raw.githubusercontent.com/G4brielBarbosa/Desafio-Pokedex-PokeAPI/main/assets/images/POKEDEX.png" />
 </p>
 
 <h1 align="center"> Descrição do Projeto </h1>
@@ -43,5 +43,5 @@ Para desenvolver esse projeto foi utilizado essas funcionalidades.
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/G4brielBarbosa/Desafio-Pokedex-PokeAPI/main/assets/images/pokedex2.gif"" />
+  <img src="https://raw.githubusercontent.com/G4brielBarbosa/Desafio-Pokedex-PokeAPI/main/assets/images/pokedex2.gif" />
 </p>
