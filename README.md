@@ -31,7 +31,7 @@ Para desenvolver esse projeto foi utilizado essas funcionalidades.
 <br>
 
 <p align="center">
-  ![Pokedex](https://user-images.githubusercontent.com/98058431/201120248-8de538f0-2a4e-4896-9a7a-e3f12a98f813.gif)
+  <img src="https://user-images.githubusercontent.com/98058431/201120248-8de538f0-2a4e-4896-9a7a-e3f12a98f813.gif">
 </p>
 
 <br>
@@ -45,5 +45,5 @@ Para desenvolver esse projeto foi utilizado essas funcionalidades.
 
 
 <p align="center">
-  ![Pokedex 2](https://user-images.githubusercontent.com/98058431/201120334-f7993b2e-102f-46ed-92dd-480ebd4c0a57.gif)
+  <img src="https://user-images.githubusercontent.com/98058431/201120334-f7993b2e-102f-46ed-92dd-480ebd4c0a57.gif">
 </p>
