@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/G4brielBarbosa/Jogo-da-Memoria/main/assets/images/GabrielBarbosa.png" />
+  <img style="height: 500px "src="https://raw.githubusercontent.com/G4brielBarbosa/Desafio-Pokedex-PokeAPI/main/assets/images/POKEDEX.png" />
 </p>
 
 <h1 align="center"> Descrição do Projeto </h1>
@@ -16,7 +16,7 @@ Para desenvolver esse projeto foi utilizado essas funcionalidades.
 - CSS3
 - HTML5
 
-  Link para acesso do projeto em produção : https://g4brielbarbosa.github.io/Desafio-Pokedex-PokeAPI/
+  Link para acesso do projeto em produção :
 
 <br>
 
@@ -31,10 +31,11 @@ Para desenvolver esse projeto foi utilizado essas funcionalidades.
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/G4brielBarbosa/Jogo-da-Memoria/main/assets/images/Gif%20Jogo%20Memoria%20(2).gif" />
+  <img src="https://user-images.githubusercontent.com/98058431/201120248-8de538f0-2a4e-4896-9a7a-e3f12a98f813.gif">
 </p>
 
 <br>
+
 
 <p align="center">
   Versão Mobile
@@ -42,6 +43,7 @@ Para desenvolver esse projeto foi utilizado essas funcionalidades.
 
 <br>
 
+
 <p align="center">
-  <img src="https://github.com/G4brielBarbosa/Jogo-da-Memoria/blob/main/assets/images/Jogo%20Memoria%20Mobile.gif?raw=true" />
+  <img src="https://user-images.githubusercontent.com/98058431/201120334-f7993b2e-102f-46ed-92dd-480ebd4c0a57.gif">
 </p>
