@@ -16,7 +16,7 @@ Para desenvolver esse projeto foi utilizado essas funcionalidades.
 - CSS3
 - HTML5
 
-  Link para acesso do projeto em produção :
+  Link para acesso do projeto em produção : https://g4brielbarbosa.github.io/Desafio-Pokedex-PokeAPI/
 
 <br>
 
